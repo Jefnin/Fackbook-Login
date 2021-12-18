@@ -9,5 +9,8 @@ import com.google.main.RedBusHome;
 @RunWith(Suite.class)
 @SuiteClasses({ RedBusHome.class })
 public class TestRunner {
+	public static void main(String[] args) {
+		System.out.println("Sasiprabha");
+	}
 
 }
