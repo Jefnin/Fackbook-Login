@@ -12,6 +12,7 @@ public class TestRunner {
 	
 	public static void main(String[] args) {
 		System.out.println("Jaffer");
+	System.out.println("Pubg");
 	}
 
 }
